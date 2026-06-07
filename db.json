@@ -8,20 +8,6 @@
       "fecha": "2024-11-01"
     },
     {
-      "descripcion": "Gas",
-      "monto": 24000,
-      "categoria": "Servicio",
-      "fecha": "2024-11-03",
-      "id": "rLGfXpgedUQ"
-    },
-    {
-      "descripcion": "Verdulería",
-      "monto": 30000,
-      "categoria": "Comida",
-      "fecha": "2024-11-05",
-      "id": "8etUBRyr51s"
-    },
-    {
       "descripcion": "Farmacia",
       "monto": 42000,
       "categoria": "Salud",
@@ -36,25 +22,18 @@
       "id": "jy3lzh1q3kM"
     },
     {
-      "descripcion": "Restaurant",
-      "monto": 50000,
-      "categoria": "Comida",
-      "fecha": "2024-11-22",
-      "id": "aqEvrKGtBWQ"
-    },
-    {
-      "descripcion": "Odontólogo",
-      "monto": 300000,
-      "categoria": "Salud",
-      "fecha": "2024-11-25",
-      "id": "XMkTCMDq_x0"
-    },
-    {
       "descripcion": "Cine",
       "monto": 50000,
       "categoria": "Entretenimiento",
       "fecha": "2024-11-17",
       "id": "k6Q9f5pcnn4"
+    },
+    {
+      "descripcion": "carnicería",
+      "monto": 60000,
+      "categoria": "Comida",
+      "fecha": "2024-11-15",
+      "id": "3YNc5EMrYwo"
     }
   ],
   "categorias": [
